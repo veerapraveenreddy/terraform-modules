@@ -1,5 +1,5 @@
 ### VPC MODULE
-Infra Engineer usually develops nodules. Users like developers, DevOps Engineers can use these modules. Companies can enforce what to use what not to use through modules.
+Infra Engineer usually develops modules. Users like developers, DevOps Engineers can use these modules. Companies can enforce what to use what not to use through modules.
 
 This module creates the following resources. As part of HA(High Availability) we select 1a and 1b AZ.
 
